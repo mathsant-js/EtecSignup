@@ -37,14 +37,14 @@
                             href="{{ route('login') }}"
                             class="inline-block px-5 py-1.5 text-red-500 border border-transparent hover:border-[#19140035] dark:hover:border-[#3E3E3A] rounded-sm text-sm leading-normal"
                         >
-                            Log in
+                            Logar
                         </a>
 
                         @if (Route::has('register'))
                             <a
                                 href="{{ route('register') }}"
                                 class="inline-block px-5 py-1.5 border-[#19140035] hover:border-[#1915014a] border text-red-500 dark:border-[#3E3E3A] dark:hover:border-[#62605b] rounded-sm text-sm leading-normal">
-                                Register
+                                Registre-se
                             </a>
                         @endif
                     @endauth
