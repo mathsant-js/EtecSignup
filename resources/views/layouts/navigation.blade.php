@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
                     <a href="{{ route('dashboard') }}">
-                        <img src="{{ asset('images/etec_zona_leste.png') }}" alt="Logo da Etec da Zona Leste" class="w-10 h-9">
+                        <img src="{{ asset('images/etec_zona_leste.png') }}" alt="Logo da Etec da Zona Leste" class="w-12 h-9">
                     </a>
                 </div>
 
